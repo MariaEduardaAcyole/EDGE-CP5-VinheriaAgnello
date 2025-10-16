@@ -38,3 +38,19 @@ Matheus Goes - 566407
 ## Configuração do MyMQTT
 o Broker MQTT usado: IP local
 
+1️⃣ Preparar o hardware
+
+- Conecte o ESP32 ao computador via USB.
+- Conecte os sensores ao ESP32:
+  - DHT22 → Pino de dados no GPIO 4
+  - LDR → Pino analógico GPIO 34
+  - LED → LED onboard ou externo no GPIO 2
+ 
+2️⃣ Configurar a rede Wi-Fi
+
+3️⃣ Configurar o broker MQTT
+
+4️⃣ Integrar sensores e LED no JSON
+
+5️⃣ Publicação MQTT
+
